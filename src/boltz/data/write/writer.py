@@ -17,7 +17,7 @@ from boltz.data.types import (
 from boltz.data.write.mmcif import to_mmcif
 from boltz.data.write.pdb import to_pdb
 
-
+print("nonsense")
 class BoltzWriter(BasePredictionWriter):
     """Custom writer for predictions."""
 
